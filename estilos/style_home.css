@@ -1,0 +1,64 @@
+body{
+ 
+    background: rgba(18, 18, 20, 1);
+    background:url(/assets/image-init.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: auto;
+
+    visibility: 0.7;
+    
+    height: 900px;
+
+}
+
+
+/*COLUNA 1 --------------------*/
+
+.bot{
+    /*width: 297px;*/
+    width: 89%; 
+    height: 97px;
+    border-radius:16px ;
+    font-size: 15px;
+    margin:  30px 5%;
+    overflow-wrap: break-word;
+    text-align: center;
+    justify-content: center;
+}
+
+.one-b{
+    background-color:#8257E6;
+}
+.one-b:hover{
+    background-color:#5c39af; 
+}
+
+
+.two-b{
+    background-color:#E83F5B;
+}
+.two-b:hover{
+    background-color:#993445;
+}
+
+.tree-b{
+    background-color:#04D361;
+}
+.tree-b:hover{
+    background-color:#108f49;
+}
+
+.four-b{
+    background-color:#FD951F;
+}
+.four-b:hover{
+    background-color:#b36b19;
+}
+
+
+a{
+    text-decoration: none;
+    padding: 1%;
+    margin-right: 10%;
+}

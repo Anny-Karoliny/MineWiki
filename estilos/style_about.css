@@ -1,0 +1,66 @@
+body{
+ 
+    background: rgba(18, 18, 20, 1);
+    background:url(/assets/image-init3.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: auto;
+
+    visibility: 0.7;
+    
+    height: 900px;
+
+}
+
+
+main{
+    display: flex;
+    align-items: center;
+    float: left;
+    width: 100%;
+}
+
+.pessoas{
+    width: 60%;
+}
+
+.people{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    text-align: justify;
+
+}
+
+.principal-gif{
+    width: 40%;
+}
+
+
+.pessoas .txt{
+    background-color: rgba(32, 32, 36, 0.6);
+    padding: 5%;
+    border-radius:10px;
+    
+}
+
+.pessoas h1{
+    margin-bottom: 4%;
+    
+}
+
+.pessoas p{
+    margin-left:20px ;
+    
+
+}
+
+.skin{
+    width: 50%;
+}
+
+/*************RESPONSIVIDADE****************/
+
+@media(max-width:711px) {
+    
+}

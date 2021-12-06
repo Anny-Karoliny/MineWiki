@@ -1,0 +1,84 @@
+/*CABEÇALHO---------------*/
+
+header{
+    background-color: rgb(32, 32, 36);
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    height: 7%;
+    width: 100%;
+    align-items: center;
+    
+}
+
+
+#logo{
+    background: #c4c4c4c4;
+    padding: 5px;
+    width: 150px;
+    margin: 0 0 0 6px;
+}
+
+
+header nav ul li{
+    list-style-type: none;
+    
+}
+
+header nav ul {
+    display: flex;
+}
+
+header nav ul li a{
+    padding: 8px;
+    color: #737380;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+}
+
+header nav ul li a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+
+.perfil-sp{
+    margin: 0 0 0 30px;
+    justify-content: center;
+
+}
+
+.perfil{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    padding: 3px ;
+    margin-right: 5px;
+    justify-content: center;
+}
+
+img, nav, ul, li, a{
+    display: flex;
+    align-items: center;
+}
+
+/*MENU 2 -------------------------*/
+
+.menu-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h1{
+    display: flex;
+    margin-left: 20px;
+}
+.rocki{
+    display: flex;
+    width: 150px;
+    padding: 3px;
+    margin: 5px;
+
+}
+
