@@ -39,8 +39,11 @@ main{
 
 .pessoas .txt{
     background-color: rgba(32, 32, 36, 0.6);
-    padding: 5%;
+    padding: 3%;
     border-radius:10px;
+    margin: 15px;
+    
+
     
 }
 

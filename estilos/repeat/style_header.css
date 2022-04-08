@@ -1,4 +1,4 @@
-/*CABEÇALHO---------------*/
+ /*CABEÇALHO---------------*/
 
 header{
     background-color: rgb(32, 32, 36);
@@ -6,7 +6,7 @@ header{
     justify-content: space-between;
     padding: 0px;
     height: 7%;
-    width: 100%;
+    width: 100% ;
     align-items: center;
     
 }
