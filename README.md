@@ -6,3 +6,4 @@
  - JavaScript (básico)
 
 # MineWiki
+# MineWIke
