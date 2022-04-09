@@ -5,6 +5,4 @@
  - Css
  - JavaScript (básico)
 
-# MineWiki
-# MineWIke
-# MineWike.github.io
+
